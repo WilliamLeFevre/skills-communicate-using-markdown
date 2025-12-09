@@ -6,3 +6,7 @@
 ###### h6 header
 
 ![Landscaoe](https://cs111.byu.edu/Homework/homework02/assets/landscape.png)
+
+``` javascript
+var myName = "William";
+```
