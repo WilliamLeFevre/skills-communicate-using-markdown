@@ -10,3 +10,8 @@
 ``` javascript
 var myName = "William";
 ```
+
+- [ ] Turn on Github pages
+- [ ] Outline portfolio
+- [ ] Introduce myself
+
